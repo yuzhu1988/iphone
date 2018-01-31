@@ -1,0 +1,131 @@
+/*
+* @Author: 朱邦比
+* @Date:   2018-01-24 08:49:42
+* @Last Modified by:   朱邦比
+* @Last Modified time: 2018-01-24 15:36:54
+*/
+.iphonez{
+	width: 302px;
+	height: 614px;
+	background: #e6b9a6;
+	border-radius: 40px;
+	float: left;
+	margin-right: 80px;
+    overflow: hidden;
+}
+.zhengbai{
+	width: 292px;
+	height: 604px;
+	background: #fcfcfe;
+	border-radius: 40px;
+	margin-top: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+}
+.xiaoyuan{
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	margin: 0 auto;
+	margin-top: 12px;
+	background: #000000;
+}
+.quantong{
+	width: 85px;
+	height: 10px;
+	background:#ffffff;
+	margin-top: 8px;
+	margin-left: 89px; 
+}
+.dayuan{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	float: left;
+	background: #000000;
+}
+.tingtong{
+	width: 56px;
+	height: 6px;
+	background: #000000;
+	float: right;
+	border-radius: 2px;
+	margin-top: 2px;
+}
+.neiping{
+	width: 270px;
+	height: 476px;
+	margin-top: 26px;
+	margin-left: 12px;
+}
+.home{
+	width: 36px;
+	height: 36px;
+	border-radius: 50%;
+	background:#fcfcfe;
+	border: 3px solid #a17b66;
+	margin: 0 auto;
+	margin-top: 9px;
+}
+.iphonef{
+	width: 302px;
+	height: 614px;
+	background: #e6b9a6;
+	border-radius: 40px;
+	float: left;
+	overflow: hidden;
+}
+.fanmian{
+	width: 292px;
+	height: 604px;
+	background: #f8eae1;
+	border-radius: 40px;
+	margin-top: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+}
+.hou{
+	width: 116px;
+	height: 42px;
+	background: #f8eae1;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.shexiangtou{
+	width: 72px;
+	height: 33px;
+	background: #000000;
+	border-radius:30px;
+	border: 5px solid #f9d1b8;
+	float: left;
+	margin-right: 6px;
+}
+.heidian{
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background: #000000;
+	margin-top: 18px;
+	float: left;
+}
+.caiquan{
+	width: 15px;
+	height: 15px;
+	margin-top: 13px;
+	float: right;
+}
+.pingguo{
+	width: 56px;
+	height: 70px;
+	background: red;
+	margin: 0 auto;
+	margin-top:77px;
+
+}
+.zi{
+	width: 56px;
+	height: 17px;
+	background:#f8eae1;
+	margin: 0 auto; 
+	margin-top: 247px;
+}
